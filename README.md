@@ -1,7 +1,7 @@
 # ExcelMiner
 Powershell script to mine Excel spreadsheets for data and dump into a nice little csv. Useful if you need to injest data from a large folder of excel sheets. I am working on a .NET version of the same thing so that you can have a more useful UI and have additional options.
 
-NOTE: I will no longer be updating this actively as I'm working on a .NET version of the software. 
+NOTE: I will no longer be updating this script myself but I will still accept pull requests for any issues that may exist.
 
 
 # Usage
