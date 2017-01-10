@@ -235,3 +235,4 @@ If(Test-Path temp.txt)
 {
 	# Remove-Item temp.txt # Comment this line out for first run so you can make offsets.
 }
+# Not sure where the duplicate Directory entry was, closing that ticket.
